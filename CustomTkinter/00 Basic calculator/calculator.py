@@ -47,8 +47,4 @@ button_minus = customtkinter.CTkButton(master=frame, text="-", command=subtracti
 button_minus.pack(padx=12, pady=10)
 
 root.mainloop()
-# button_minus = customtkinter.CTkButton(master=frame, text="-", command=subtraction(num1, num2))
-# button_minus.pack()
 
-
-# dodati button 1 za sabiranje, button2 za oduzimanje i da li label ili sta god za rezultat
